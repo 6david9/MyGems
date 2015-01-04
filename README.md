@@ -23,7 +23,8 @@ MyGems
 
 [Plist](https://github.com/bleything/plist) 读写plist
 
+[therubyracer](https://github.com/cowboyd/therubyracer) eval Javascript
 
 	gem sources --remove https://rubygems.org/
 	gem sources -a https://ruby.taobao.org/
-	gem install nokogiri sinatra glorify mechanize sqlite3 rails rerun pry byebug plist2
+	gem install nokogiri sinatra glorify mechanize sqlite3 rails rerun pry byebug plist2 therubyracer
