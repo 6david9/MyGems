@@ -25,6 +25,8 @@ MyGems
 
 [therubyracer](https://github.com/cowboyd/therubyracer) eval Javascript
 
+[Rainbow](https://github.com/sickill/rainbow) colorizing printed text on ANSI terminals.
+
 	gem sources --remove https://rubygems.org/
 	gem sources -a https://ruby.taobao.org/
-	gem install nokogiri sinatra glorify mechanize sqlite3 rails rerun pry byebug plist2 therubyracer
+	gem install nokogiri sinatra glorify mechanize sqlite3 rails rerun pry byebug plist2 therubyracer rainbow
